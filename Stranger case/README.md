@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/95431446/168448390-564ed0ad-60cc-44be-8239-87e593ba6ca5.png)
 
 
-# STRANGER CASE CTF 14/05
+# STRANGER CASE CTF 14/05/2022
 
 CTF OSINT | Organisé par les étudiants de [@EsnaBretagne](https://twitter.com/EsnaBretagne) | [Dicsord](https://t.co/u1vYFscQ61)
 
