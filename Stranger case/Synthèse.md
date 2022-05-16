@@ -47,6 +47,6 @@ Comme le prouve les morceaux de code trouvés sur le github, le serveur sur lequ
 
 Voici la mind map final des relations entre les différentes entités : 
 
-![image](https://user-images.githubusercontent.com/95431446/168628204-af746454-bcba-41a0-82fb-c3a2f5df95f4.png)
+https://i.ibb.co/ZhN5Xw0/ESUBIO2.png
 
 ## FIN
