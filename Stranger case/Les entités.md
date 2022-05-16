@@ -87,7 +87,7 @@ Son Github contient également des logins pour accéder au .onion caché dans le
 
 | ![image](https://user-images.githubusercontent.com/95431446/168611811-7525010e-c749-4d5a-9bd2-5a4de857409b.png) |
 | :---------------------------: |
-| CHAUVET Romain |
+| Benoit Dormont |
 🔗 [GitHub](https://github.com/powermindctrl)
 🔗 [Linkedin](https://www.linkedin.com/in/benoit-dormont-304985239/)
 
