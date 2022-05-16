@@ -6,7 +6,7 @@
 
 # CTF WRITEUPS
 
-Je publierai ici les WU des divers challenges que je réussis aux CTF auxquels je participe. 
+Je publie ici les WU des divers challenges que je réussis aux CTF auxquels je participe. 
 
 <p align="center">
 <a href="https://user-images.githubusercontent.com/95431446/168652393-d92e4b36-b1e1-45f6-8bd7-e122d02c1358.png">
