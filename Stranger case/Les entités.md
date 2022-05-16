@@ -99,4 +99,5 @@ Puis vint madame AIZUO Wen Mai, que nous avons abordée précédemment. Chercheu
 
 La dernière personne est monsieur BRUZOIS Mathieu, Directeur de publication, il semble être très proche de monsieur DORMONT, comme le prouve leur séminaire ensemble à Rennes.
 
+![image](https://user-images.githubusercontent.com/95431446/168626812-3cbd0e55-d4f1-4da2-8080-1dfa1f385940.png)
 ______________________________________________________________________________________________________________________________________________
